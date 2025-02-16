@@ -1,21 +1,10 @@
-Here’s the **updated GitHub README** with **shield badges** for your **Collaborative Text Editor - Frontend Repository**:  
-
----
-
 # ✏️ Collaborative Text Editor - Frontend  
-
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/collaborative-text-editor-frontend?style=for-the-badge)  
-![GitHub stars](https://img.shields.io/github/stars/your-username/collaborative-text-editor-frontend?style=for-the-badge)  
-![GitHub forks](https://img.shields.io/github/forks/your-username/collaborative-text-editor-frontend?style=for-the-badge)  
-![GitHub issues](https://img.shields.io/github/issues/your-username/collaborative-text-editor-frontend?style=for-the-badge)  
-![License](https://img.shields.io/github/license/your-username/collaborative-text-editor-frontend?style=for-the-badge)  
 
 🚀 **Real-time collaborative text editing built with React, Socket.io, and Tailwind CSS.**  
 
-![Collaborative Editor](https://your-image-url.com/banner.png)  
 
-🔗 **Live Demo:** [Click here](https://your-frontend-url.com)  
-🔗 **Backend Repo:** [Backend Repository](https://github.com/your-backend-repo)  
+🔗 **Live Demo:** [Click here](https://vermillion-cranachan-eca65b.netlify.app/)  
+🔗 **Backend Repo:** [Backend Repository](https://github.com/jiteshjampa/Collaborative_Text_Editor_Backend)  
 
 ---
 
@@ -70,7 +59,7 @@ npm start
 
 The frontend interacts with the backend via REST API and WebSockets.  
 
-📌 **Backend API Documentation:** [View Here](https://www.postman.com/your-postman-link)  
+📌 **Backend API Documentation:** [View Here](https://imf-gadget.postman.co/workspace/New-Team-Workspace~0cb77262-e5b7-4952-bd34-e3b77ad05fbd/collection/36484787-45c39f3c-5f25-41c3-8876-814f818b591e?action=share&creator=36484787)  
 
 📌 **Example API Calls:**  
 
