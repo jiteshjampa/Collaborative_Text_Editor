@@ -51,7 +51,7 @@ REACT_APP_BACKEND_URL=https://your-backend-url.com
 npm start
 ```
 
-🚀 Now open **http://localhost:3000** in your browser!
+🚀 Now open **http://localhost:5173** in your browser!
 
 ---
 
