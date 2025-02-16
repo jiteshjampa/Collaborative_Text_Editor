@@ -12,10 +12,10 @@
 
 ✅ **Real-time collaboration** with multiple users  
 ✅ **WebSockets (Socket.io)** for instant updates  
-✅ **Rich text editing** with formatting options  
+✅ **Text editing** with formatting options  
 ✅ **User presence tracking** (Active users list)  
 ✅ **Shareable links** for easy collaboration  
-✅ **Beautiful UI** with Tailwind CSS  
+✅ **UI** with Tailwind CSS  
 
 ---
 
