@@ -48,7 +48,7 @@ REACT_APP_BACKEND_URL=https://your-backend-url.com
 
 **4️⃣ Start the development server**  
 ```sh
-npm start
+npm run dev
 ```
 
 🚀 Now open **http://localhost:5173** in your browser!
